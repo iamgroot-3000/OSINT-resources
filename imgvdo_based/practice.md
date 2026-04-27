@@ -28,5 +28,6 @@ https://www.openstreetmap.org/ (api - available)
 ```bash
 https://www.google.com/ (using Image search)
 https://yandex.com/
-https://chromewebstore.google.com/detail/fake-news-debunker-invid/mhccpoafgdgbhnjfhkcmgknndkeenfhe
+https://chromewebstore.google.com/detail/fake-news-debunker-invid/mhccpoafgdgbhnjfhkcmgknndkeenfhe (Reverse image search + tools by vera.ai, invid)
+https://chromewebstore.google.com/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf (reverse-search engine cluster)
 ```
